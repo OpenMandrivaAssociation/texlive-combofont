@@ -3,7 +3,7 @@ Version:	51348
 Release:	2
 Summary:	Add NFSS-declarations of combo fonts to LuaLaTeX documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/combofont
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/combofont
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/combofont.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/combofont.doc.r%{version}.tar.xz
